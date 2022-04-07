@@ -1,0 +1,21 @@
+#map {
+  position: absolute; 
+  top: 0; 
+  bottom: 0; 
+  width:1024px; 
+  height:768px;
+}
+
+body { 
+  margin: 0; 
+  padding: 0; 
+}
+
+.map-overlay {
+  font-family: 'Graduate', cursive;
+  color: white;
+  font-weight: bold;
+  position: absolute;
+  left: 0;
+  padding: 10px;
+}
