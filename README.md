@@ -15,8 +15,6 @@ In addition, the user would be able to input a city name, and have the map and a
 ### License Info
 Please see the LICENSE file in this repo regarding the MIT License.
 
-<img src= "red.png" width='300'/>
-<img src= "blue.png" width='300'/>
+<img src= "red.png" />&nbsp;&nbsp;&nbsp;<img src= "blue.png" />
 
-# real-time-bus-tracker
-# real-time-bus-tracking-project
+#### real-time-bus-tracker
